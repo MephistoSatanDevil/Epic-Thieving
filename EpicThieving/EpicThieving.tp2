@@ -1532,11 +1532,21 @@ END
 
 END
 
+README
+~EpicThieving/readme-%LANGUAGE%.txt~
+
+ASK_EVERY_COMPONENT
+
 LANGUAGE
 "English"
 ENGLISH
  ~EpicThieving/tra/english/english.tra~
 
+LANGUAGE
+"schinese"
+schinese
+ ~EpicThieving/tra/schinese/schinese.tra~
+    
 BEGIN @2
 
 COPY ~EpicThieving/EpicLocks~ ~override~
